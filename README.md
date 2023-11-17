@@ -2,6 +2,7 @@
 - I'm interested in all things data with a focus on machine learning. 
 - I'm currenlty teaching myself R, Java, and Julia, while strengthening my python and SQL skills.
 - I'm also actively working on becoming proficient in Power BI, Snowflake, and Tableau.
+- Reading: The Book of OHDSI (Observational Health Data Sciences and Informatics)
 
 <!---
 scasey124/scasey124 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
