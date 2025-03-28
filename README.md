@@ -14,7 +14,7 @@
 #### Currently working on:
 - [Mathematics for Machine Learning](https://www.coursera.org/specializations/mathematics-for-machine-learning-and-data-science)
 - New data projects - a mix of data engineering & data science (focus on ML & AI)
-- My portfolio webiste (version 1 is up) & this page
+- My portfolio webiste (version 1 will be up soon) & this page
 
 ##### Fun fact:
 - If I'm not working, you'll probably find me adding another hobby to my already long list.
