@@ -9,7 +9,7 @@
 #### Tools:
 - Primary languages: Python | SQL | R | STATA 
   - Secondary languages: HTML | CSS | Javascript 
-  - Tertiary languages: Java  
+  - Tertiary languages: Java (very much a beginner) 
 
 #### Currently working on:
 - [Mathematics for Machine Learning](https://www.coursera.org/specializations/mathematics-for-machine-learning-and-data-science)
