@@ -16,6 +16,9 @@
 - New data projects - a mix of data engineering & data science (focus on ML & AI)
 - My portfolio webiste (version 1 is up) & this page
 
+##### Fun fact:
+- If I'm not working, you'll probably find me adding another hobby to my already long list.
+
 <!---
 scasey124/scasey124 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
