@@ -4,7 +4,7 @@
 - I hold a Master of Science (with Distinction) in Health Data Science from University College London (UCL) and a BA (cum laude) in Biochemistry from Mount Holyoke College.
 - Before my data jounery, I worked as a biomedical researcher.
 - I love learning new technologies and have dabbled in data engineering over the past year.
-- I am interested in exploring how ML/AI intersects with human-centered design, ethics, and privacy, aiming to create solutions that are both innovative and responsible.
+- I am interested in exploring how ML/AI intersects with human-centered design, ethics, and privacy. My goal is to create solutions that are both innovative and responsible.
 
 #### Tools:
 - Primary languages: Python | SQL | R | STATA 
